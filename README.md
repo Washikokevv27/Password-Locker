@@ -58,5 +58,5 @@ The user would like to.... :
 If you have any question or contributions, please email me at [washikokevv27@gmail.com]
 
 ## License
-* *MIT License:[https://github.com/washikokevv27/Password-Locker/blob/master/LICENSE.md]
+* *MIT License:[https://github.com/Washikokevv27/Password-Locker/commit/187095c19cfa4315506f071527988e0f244d96e7]
 * Copyright (c) 2020 **Washiko Kelvin**
