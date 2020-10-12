@@ -1,5 +1,6 @@
 import random
 import string
+
 class User:
     """
     Create User class that generates new instances of a user.
@@ -19,15 +20,16 @@ class User:
         A method that saves a new user instace into the user list
         """
         User.user_list.append(self)
+
     def delete_user(self):
         '''
-        delete_account method deletes a  saved account from the list
+        delete_account method deletes a saved account from the list
         '''
         User.user_list.remove(self)
 
 class Credentials():
     """
-    Create credentials class to help create new objects of credentials
+    Create credentials class to help create and generate new objects of credentials
     """
     credentials_list = []
     @classmethod
