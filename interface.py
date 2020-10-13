@@ -1,5 +1,6 @@
 #usr/bin/env python3.8
-from passlock import User, Credentials
+from passlock import User
+from passlock import Credentials
 
 def function():
 	print("           ___      _      ___  _____  _      _____  _____  __    ___  _____                               ")
